@@ -17,7 +17,7 @@ npm install m3.js
 ### yarn
 
 ```
-yanr add m3.js
+yarn add m3.js
 ```
 
 ## How to use
