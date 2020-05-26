@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
+    "src",
     "es",
     "lib",
     "umd"
@@ -17,13 +18,26 @@
     "test:coverage": "nwb test --coverage",
     "test:watch": "nwb test --server"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "nwb": "0.25.x"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Fi1osof",
+  "homepage": "https://github.com/Fi1osof/m3.js#readme",
   "license": "MIT",
-  "repository": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fi1osof/m3.js.git"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "keywords": [
+    "WebGL",
+    "m3"
+  ],
+  "bugs": {
+    "url": "https://github.com/Fi1osof/m3.js/issues"
+  }
 }
